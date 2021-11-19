@@ -1,0 +1,212 @@
+/**************************************css*****************************************/
+
+
+
+/**************************************body*****************************************/
+
+body{
+    background-color:rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  
+  
+  
+  
+  /**************************************hr*****************************************/
+  
+  .dotted-hr {
+      border-style: none;
+      width: 5%;
+      border-top-style: dotted;
+      border-width: 5px;
+      border-color:rgb(0, 0, 0);	
+      
+  }
+  
+  /**************************************text*****************************************/
+  
+  .page-title {
+      margin: 0;
+      color: rgb(0, 0, 0);
+      font-family: Bradley Hand ITC;
+      text-align:center;
+      background-color: rgb(200, 200, 240);
+  }
+  
+  .title{
+      text-align: center;
+      font-family: Bradley Hand ITC;
+      font-size: 30px;
+      color:rgb(0, 0, 0);
+      
+  }
+  
+  h1, h2, h3, h4, h5, h6{
+      margin: 0;
+      color:#000;
+      font-family: Bookman Old Style;
+  }
+  .p{
+      margin: 0;
+      color:rgb(255, 255, 255);
+      font-family: Blackadder ITC;
+       content: 100px
+  }
+  
+  
+  
+  p{
+      font-family: Agency FB;
+      color:#000;
+      font-size: 20px;
+      text-align: center;
+      
+  }
+  .ul{
+      background-color: rgb(200, 200, 240);
+      text-align: center;
+      position: relative;
+      filter:  brightness(1);
+  
+  }
+  
+  
+  .bottom-container{
+      text-align:center;
+      background-color:rgb(255, 255, 255);
+      margin:auto;
+  }
+  .contact-me{
+      text-align:center;
+      background-color:rgb(255, 255, 255);
+      margin:auto;
+  }
+  
+  
+  .contact-me{
+      text-align:center;
+      background-color:rgb(255, 255, 255);
+      margin:auto;
+      
+  }
+  
+  .footer{
+      text-align:center;
+  }
+  .footer{
+      background-color:rgb(255, 255, 255);
+      margin:auto;
+      text-align:center;
+  }
+  .fulfooter{
+          background-color:rgb(255, 255, 255);
+  }
+  
+  
+  
+  /**************************************div*****************************************/
+  
+  
+  
+  
+  /**************************************imiage*****************************************/
+  
+  /**************************************imiage*****************************************/
+  
+  
+  /**************************************css*****************************************/
+  
+  
+  .profile {
+          text-align: center;
+      padding: 0%;}
+      
+  .skills h2 {
+      text-align: center;
+      margin: 0;
+  }
+  
+  
+          
+  .skill-img {
+      width: 50%;
+  }
+      
+  
+  
+  
+  .footer-img {
+      width: 4%;
+      height: 4%;
+      
+  }
+  
+  
+  .middle-container{
+      background-color:rgb(255, 255, 255);
+      margin-top: 20px;
+      margin-left: 0%;
+      margin-right: 0%;
+  }
+  
+  .footer-link {
+      
+  margin-right: 10px;
+  
+  }
+  
+  .footer-link {
+      
+  margin-left: 10px;
+  
+  }
+  
+  .contact{
+  background-color:rgb(255, 255, 255);
+      
+  }
+  
+  .text-feild{
+      position:absolute;
+  
+      color:#FFF;
+  background-color:paleturquoise;
+  width: 70px;
+  height: 40px;
+  }
+  
+  
+  .skills{
+      background-color:rgb(255, 255, 255);
+      width: 100%;
+  }
+  
+  
+  
+  
+  /**********************************b***********************************/
+  
+  #features{
+      padding-left: 7%;
+      padding-right: 7%;
+  }
+  
+
+  
+  .features-box{
+      text-align:center;
+      padding: 5%;
+      transition: background-color 2s;
+  }
+  
+  .features-box:hover{
+       background-color:rgb(255, 255, 255);
+       color:rgb(255, 255, 255);
+  }
+  
+  h3 {
+      font-family: "Montserrat-Bold";
+  }
